@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VirtualClark</string>
+    <string name="e_mail_id">E-mail ID</string>
+    <string name="password">Password</string>
+</resources>
